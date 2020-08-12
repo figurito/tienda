@@ -1,0 +1,2 @@
+# tienda
+Tienda en Django
